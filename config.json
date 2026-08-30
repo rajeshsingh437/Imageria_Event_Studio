@@ -1,0 +1,22 @@
+{
+  "test_rows": 20,
+  "input_file": "Master List.xlsx",
+  "output_file": "Education_Verification_RUN1_PYTHON.xlsx",
+  "official_first": true,
+  "government_domains": [
+    "ugc.gov.in",
+    "education.gov.in",
+    "nmc.org.in",
+    "mohfw.gov.in",
+    "cbse.gov.in",
+    "cisce.org"
+  ],
+  "status_columns": {
+    "W": "Source Contact",
+    "AD": "Current/Upcoming Event",
+    "AG": "Previous Event"
+  },
+  "green": "PRIMARY",
+  "yellow": "GOVERNMENT_OR_APPROVED_SECONDARY",
+  "red": "UNRESOLVED_OR_CONFLICT"
+}
