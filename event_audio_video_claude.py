@@ -30,8 +30,8 @@ except (ImportError, ModuleNotFoundError, AttributeError):
     mp_solutions = mp_lib.solutions
 
 # ================= USER CONFIGURATION =================
-INPUT_PATH = r"D:\raw_photos"
-OUTPUT_PATH = r""
+INPUT_PATH = r"C:\New folder\C_Minds 26\V_22_Cminds\USB Drive\PRIVATE\AVCHD\BDMV\STREAM\\"
+OUTPUT_PATH = r"E:\Cminds"
 WATERMARK_TEXT = ""
 TIME_GAP_SECONDS = 25
 BLUR_THRESHOLD = 80.0
